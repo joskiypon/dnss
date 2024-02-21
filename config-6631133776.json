@@ -1,0 +1,120 @@
+{
+    "hikka.security": {
+        "owner": [
+            6827180554
+        ]
+    },
+    "hikka.inline.token_obtainment": {
+        "no_mute": true
+    },
+    "hikka.inline": {
+        "bot_token": "6358885964:AAHwqlh40lwuacE3jq6qwMy8v3p6UkUhZvI"
+    },
+    "InlineStuffMod": {
+        "migrated": true
+    },
+    "Presets": {
+        "sent": true
+    },
+    "HikkaRestartMod": {
+        "do_not_create": true
+    },
+    "QuickstartMod": {
+        "disable_quickstart": true
+    },
+    "APIRatelimiterMod": {
+        "__config__": {
+            "time_sample": 15,
+            "threshold": 100,
+            "local_floodwait": 30,
+            "forbidden_methods": [
+                "joinChannel",
+                "importChatInvite"
+            ]
+        }
+    },
+    "HelpMod": {
+        "__config__": {
+            "core_emoji": "\u25aa\ufe0f",
+            "hikka_emoji": "\ud83c\udf18",
+            "plain_emoji": "\u25ab\ufe0f",
+            "empty_emoji": "\ud83d\ude48"
+        }
+    },
+    "HikkaInfoMod": {
+        "__config__": {
+            "custom_message": null,
+            "custom_button": [
+                "\ud83c\udf18 Support chat",
+                "https://t.me/hikkawe_support"
+            ],
+            "banner_url": "https://github.com/hikariatama/assets/raw/master/hikka_banner.mp4"
+        }
+    },
+    "LoaderMod": {
+        "__config__": {
+            "MODULES_REPO": "https://mods.hikariatama.ru",
+            "ADDITIONAL_REPOS": [
+                "https://github.com/hikariatama/host/raw/master",
+                "https://github.com/MoriSummerz/ftg-mods/raw/main",
+                "https://gitlab.com/CakesTwix/friendly-userbot-modules/-/raw/master"
+            ],
+            "share_link": false
+        },
+        "reacted": [
+            "1616965878/Speedtest"
+        ]
+    },
+    "TestMod": {
+        "__config__": {
+            "force_send_all": false,
+            "tglog_level": "INFO"
+        }
+    },
+    "hikka.main": {
+        "permanent_modules_fs": true,
+        "disable_modules_fs": false
+    },
+    "NumMod": {
+        "numfilter": {
+            "users": [
+                6450309561
+            ],
+            "filter": null,
+            "status": false
+        },
+        "infList": {}
+    },
+    "BioWars": {
+        "DovUsers": {
+            "6450309561": 4
+        },
+        "FamousUsers": {},
+        "LastInfect": null,
+        "InfectionBefore": {},
+        "UsersNik": {
+            "853262865": "\u206c",
+            "1211082919": "\u206c",
+            "518393474": "Yankee\u206c",
+            "6273276204": "\u206c",
+            "636605212": "\u30af\u30ea\u30b9&amp;lt;/a&amp;gt; \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u043b\u0430 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044e \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c \u043f\u0430\u0442\u043e\u0433\u0435\u043d\u043e\u043c &amp;lt;a href=\"https://t.me/zxc_phonk_7u7\"&amp;gt;\u0627\u062e\u0645\u0627\u062a",
+            "5575656411": "Sound"
+        },
+        "FamousPrefs": {},
+        "infStatus": false,
+        "infInterval": 5,
+        "Cooldown": {},
+        "AutoHill": "26/03/2023 09:00:00",
+        "Diseases": {},
+        "__config__": {
+            "\u0420\u0435\u0436\u0438\u043c \u0431\u0438\u043e": true,
+            "\u0412\u043a\u043b/\u0412\u044b\u043a\u043b \u0434\u043e\u0432\u0435\u0440\u043a\u0438": true,
+            "\u0410\u0432\u0442\u043e\u0437\u0430\u043f\u0438\u0441\u044c \u0436\u0435\u0440\u0442\u0432": true,
+            "\u0422\u0438\u0445\u043e\u0435 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435": true,
+            "\u0410\u0432\u0442\u043e\u0445\u0438\u043b\u043b": true,
+            "\u0423\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0441\u043c\u0441": false,
+            "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0437\u043e\u043d\u0430": "Europe/Moscow",
+            "\u0410\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u044b \u043b\u0430\u0431\u044b": "p np be br f"
+        }
+    }
+}
